@@ -55,7 +55,7 @@ Conditionals
 ------------
 
 VCL has *if* and *else* statements. Nested logic can be implemented
-with the *elseif* statement. (*elsif*/*elif*/*else if* is equivalent.)
+with the *elseif* statement. (*elsif*/*elif*/*else if* are equivalent.)
 
 Note that are no loops or iterators of any kind in VCL.
 
